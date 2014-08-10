@@ -1,4 +1,5 @@
-#!/usr/bin/env node
+# node js script
+#! /usr/bin/env node
 
 var fs = require('fs');
 var sWordFile = '/usr/share/dict/words';
