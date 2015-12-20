@@ -1,0 +1,10 @@
+word the occurred 8 times
+word and occurred 4 times
+word of occurred 4 times
+word a occurred 4 times
+word to occurred 4 times
+word as occurred 3 times
+word in occurred 3 times
+word one occurred 3 times
+word is occurred 2 times
+word on occurred 2 times
